@@ -1,2 +1,3 @@
-# spotifyWorkflow
-Source Spotify dataset
+# spotifyWorkflow Project
+
+Hi, this project aims to explore APIs, data modeling, normalization, and exploratory data analysis (EDA), with a focus on applying data engineering principles to streamline the entire process. The project will involve integrating external data sources through APIs, efficiently structuring and modeling the data for optimized querying, and applying data normalization techniques to ensure consistency. By incorporating data engineering best practices, we will automate data pipelines and transformations, enabling seamless extraction, processing, and analysis. The EDA phase will then uncover insights and trends, laying the groundwork for deeper analytical tasks.
